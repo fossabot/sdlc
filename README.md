@@ -1,4 +1,6 @@
 # sdlc
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnelsocs%2Fsdlc.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnelsocs%2Fsdlc?ref=badge_shield)
+
 sdlc automation
 gitclone.sh is a bash script for pulling all of an organizations repos down via git clone
 gitpull.sh pulls updates
@@ -49,3 +51,7 @@ sudo docker rmi $(sudo docker images)
 
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnelsocs%2Fsdlc.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnelsocs%2Fsdlc?ref=badge_large)
